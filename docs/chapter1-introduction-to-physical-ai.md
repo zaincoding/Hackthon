@@ -1,3 +1,13 @@
+---
+title: Markdown page example
+---
+
+# Markdown page example
+
+You don't need React to write simple standalone pages.
+
+
+
 <!---
 
 ---
@@ -66,6 +76,7 @@ The journey of Physical AI is just beginning, with vast opportunities for innova
 <!--
 Embedding generation was slow, so a concise conclusion was manually created
 to simplify embedding and efficient storage in the vector database.
--->
 
-Physical AI brings intelligence into the physical world, enabling systems to sense, decide, and act in real environments. Understanding it is essential to shaping the future of real-world technology.
+
+
+Physical AI brings intelligence into the physical world, enabling systems to sense, decide, and act in real environments. Understanding it is essential to shaping the future of real-world technology.  -->

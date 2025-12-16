@@ -1,14 +1,4 @@
----
-title: Markdown page example
----
 
-# Markdown page example
-
-You don't need React to write simple standalone pages.
-
-
-
-<!---
 
 ---
 sidebar_position: 2
@@ -67,16 +57,7 @@ Artificial intelligence techniques are becoming increasingly sophisticated at ha
 The integration of Physical AI with other technologies, such as the Internet of Things (IoT), cloud computing, and edge computing, is creating intelligent environments where multiple systems work together to achieve complex goals. These systems can share information, coordinate their actions, and learn from collective experiences.
 
 ## Conclusion
-
+<>
  Physical AI represents a fundamental shift in how we think about artificial intelligence and its applications. By extending AI capabilities into the physical world, these systems have the potential to transform industries, improve quality of life, and address complex challenges that require both intelligence and physical action. As the field continues to evolve, we can expect to see increasingly capable and sophisticated systems that seamlessly integrate intelligence with physical interaction.
 
 The journey of Physical AI is just beginning, with vast opportunities for innovation and impact. Understanding its foundations, challenges, and potential is essential for anyone interested in the future of technology and its role in our physical world. -->
-
-
-<!--
-Embedding generation was slow, so a concise conclusion was manually created
-to simplify embedding and efficient storage in the vector database.
-
-
-
-Physical AI brings intelligence into the physical world, enabling systems to sense, decide, and act in real environments. Understanding it is essential to shaping the future of real-world technology.  -->

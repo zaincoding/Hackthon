@@ -1,3 +1,5 @@
+<!---
+
 ---
 sidebar_position: 2
 ---
@@ -56,9 +58,10 @@ The integration of Physical AI with other technologies, such as the Internet of 
 
 ## Conclusion
 
-<!-- Physical AI represents a fundamental shift in how we think about artificial intelligence and its applications. By extending AI capabilities into the physical world, these systems have the potential to transform industries, improve quality of life, and address complex challenges that require both intelligence and physical action. As the field continues to evolve, we can expect to see increasingly capable and sophisticated systems that seamlessly integrate intelligence with physical interaction.
+ Physical AI represents a fundamental shift in how we think about artificial intelligence and its applications. By extending AI capabilities into the physical world, these systems have the potential to transform industries, improve quality of life, and address complex challenges that require both intelligence and physical action. As the field continues to evolve, we can expect to see increasingly capable and sophisticated systems that seamlessly integrate intelligence with physical interaction.
 
 The journey of Physical AI is just beginning, with vast opportunities for innovation and impact. Understanding its foundations, challenges, and potential is essential for anyone interested in the future of technology and its role in our physical world. -->
+
 
 <!--
 Embedding generation was slow, so a concise conclusion was manually created
